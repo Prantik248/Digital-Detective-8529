@@ -16,3 +16,9 @@ Each mission is completed in sequence, documented in its own folder, and committ
 - [Mission 7 — Computer networks](mission-07-networking/README.md)
 - [Mission 8 — Final review and submission](mission-08-final-report/README.md)
 - [Evidence folder](evidence/)
+
+## My Learning
+
+- **How computers process and store data:** Through IPOS and number systems, I learned how everyday actions turn into binary (`0` and `1`) data processed by the CPU/RAM and stored on an SSD.
+- **Command-line & operating system awareness:** Using Terminal commands (`pwd`, `ls -lah`, pipes, `ps`, `df -h`) showed me how the OS tracks processes, disk space, and permissions.
+- **Version control discipline:** Committing one mission at a time keeps history clean and makes it easy to test changes safely on separate branches before merging.
