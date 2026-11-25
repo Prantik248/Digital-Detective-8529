@@ -1,0 +1,2 @@
+Day 1: Exploring basic Terminal commands safely.
+Day 2: Appending text without erasing line one.
